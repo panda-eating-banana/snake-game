@@ -48,6 +48,5 @@ Game Objective:
 - Grow the snake and increase its speed as you eat more food.
 
 Additional Information:
-- The game has a wrap-around mechanic, which means if the snake moves off one side of the screen, it will appear on the opposite side.
 - The snake’s speed increases each time it eats food, making the game more challenging as it progresses.
 - Poison blocks spawn randomly and expire after a certain time, adding an additional challenge to the game.
